@@ -1,10 +1,15 @@
 # 💫 About Me:
-🔭 Estudiante egresado de la carrera de Informática de la Universidad Mayor de San Andrés.<br>👯 Soy una persona muy colaborativa y en constante aprendizaje.<br>🌱 Actualmente estoy reforzando conocimientos en bases de datos y programación estrucurada.
+🔭 Licenciado en informática con mención en ingeniería de sistemas: Universidad Mayor de San Andrés.<br>
+👨🏻‍💻 Apasionado por la tecnología y la innovación. <br>
+🧠 Capacidad de aprendizaje rápido y adaptación a nuevos entornos. <br>
+👯 Trabajo en equipo y comunicación efectiva.<br>
+⏳ Actualmente estoy desarrollando aplicaciones web en una empresa de soluciones tecnológicas, utilizando diferentes lenguajes de programación y frameworks (PHP - JS), dando mantenimiento, refactoriando sistemas y servicios ya existentes, también haciendo trabajo colaborativo para crear nuevas aplicaciones y servicios. <br>
+
 
 
 ## 🌐 Socials:
 <a href="https://facebook.com/robertocarlos.chambicalizaya.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-<a href="https://linkedin.com/in/chambi-98-roberto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="http://www.linkedin.com/in/rcchambi4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 
 
 # 💻 Tech Stack:
