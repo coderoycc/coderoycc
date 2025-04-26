@@ -3,7 +3,7 @@
 👨🏻‍💻 Apasionado por la tecnología y la innovación. <br>
 🧠 Capacidad de aprendizaje rápido y adaptación a nuevos entornos. <br>
 👯 Trabajo en equipo y comunicación efectiva.<br>
-⏳ Actualmente estoy desarrollando aplicaciones web en una empresa de soluciones tecnológicas, utilizando diferentes lenguajes de programación y frameworks (PHP - JS), dando mantenimiento, refactoriando sistemas y servicios ya existentes, también haciendo trabajo colaborativo para crear nuevas aplicaciones y servicios. <br>
+⏳ Actualmente estoy desarrollando aplicaciones web en una empresa de soluciones tecnológicas, utilizando diferentes lenguajes de programación y frameworks modernos de javascript, dando mantenimiento, refactoriando sistemas y servicios ya existentes, también haciendo trabajo colaborativo para crear nuevas aplicaciones y servicios. <br>
 
 
 
