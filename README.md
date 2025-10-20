@@ -11,7 +11,7 @@
 <a href="https://facebook.com/robertocarlos.chambicalizaya.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
 <a href="http://www.linkedin.com/in/rcchambi4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 
-## 🤓 Projets
+## 🤓 Projects
 ### Personal
 <a href="https://coderoycc.github.io/memory-cards/" target="_blank">Memory game</a> Juego de memoria (Vue 3, Tailwind, Typescript) GH-pages / GH-actions
 <br>
