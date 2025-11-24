@@ -1,90 +1,113 @@
-# ROBERTO CARLOS CHAMBI CALIZAYA
+<div align="center">
 
-**Full Stack Developer Jr.** | La Paz, Bolivia  
-📧 rcchambi4@gmail.com | 
+# 👋 Hola, soy Roberto Carlos Chambi
 
-## 🌐 Socials:
-<a href="https://facebook.com/robertocarlos.chambicalizaya.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-<a href="http://www.linkedin.com/in/rcchambi4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+### Full Stack Developer | Laravel • Vue.js • Node.js
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/rcchambi4)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcchambi4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/coderoycc)
 
-## 💫 Perfil Profesional
-
-Full Stack Developer Jr. con **+3 años de experiencia** diseñando, desarrollando y manteniendo aplicaciones web escalables. Especializado en arquitecturas modernas, optimización de procesos y trabajo colaborativo en equipos ágiles.
-
-### 🎯 Competencias Clave:
-- 🚀 Desarrollo de aplicaciones web con arquitecturas escalables y multitenant
-- 🔧 Refactorización y optimización de sistemas legacy
-- 👥 Trabajo colaborativo en metodologías ágiles (Scrum)
-- 📊 Implementación de pipelines CI/CD y automatización
-- 🧠 Aprendizaje rápido y adaptación a nuevas tecnologías
+</div>
 
 ---
 
-## 💼 Experiencia Profesional
+## 🚀 Sobre Mí
 
-### **Full Stack Developer Jr.** | STIS & Bloomcker, La Paz
-**Enero 2023 - Diciembre 2024**
+```javascript
+const roberto = {
+    location: "La Paz, Bolivia 🇧🇴",
+    role: "Full Stack Developer Jr.",
+    experience: "+3 años",
+    education: "Lic. en Informática - UMSA",
+    currentFocus: ["Clean Architecture", "Microservices", "APIs REST", "Docker", "CI/CD", "Multitenant Apps"],
+    lookingFor: "Oportunidades para crear soluciones innovadoras"
+};
+```
 
-- ✅ Desarrollé y mantuve aplicaciones web utilizando **Laravel, Vue.js, Node.js y PostgreSQL**
-- ✅ Implementé reportes dinámicos con **Excel**, mejorando la capacidad de análisis y toma de decisiones del equipo
-- ✅ Configuré **pipelines de CI/CD** para los servicios de la empresa
-- ✅ Reestructuré el módulo de planificación de visitas para soportar **arquitectura multitenant** para sistemas multi-empresa
-- ✅ Colaboré en el desarrollo de nuevas funcionalidades y servicios web
-
----
-
-## 🎓 Educación
-
-**Licenciatura en Informática**  
-Universidad Mayor de San Andrés, Bolivia  
-**2017 - 2022**
+💡 **Especializado en:** Desarrollo web full-stack, arquitecturas escalables y optimización de sistemas  
+🎯 **Enfoque:** Código limpio, mejores prácticas, arquitecturas modernas y trabajo en equipo  
+🌱 **Aprendiendo:** AI Agents, Microservicios multitenant avanzados
 
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend**  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Backend**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Bases de Datos
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### DevOps & Herramientas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
-
-### Otros
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 📚 Cursos y Certificaciones
-
-- ✅ **No Code AI Agent Builder** - SimpliLearn SkillUp (2025)
-- ✅ **Scrum Foundation Professional Certificate (SFPC)** - Agile Scrum (2024)
-- ✅ **APIs RESTful con Laravel** - Udemy (2023)
-- ✅ **Curso JS, Bootstrap & PHP** - Plataforma de educación en línea Udemy (2022)
-- ✅ **Curso de Git y Github** - Código Facilito (2022)
-
----
-
-## 🚀 Proyectos Destacados
-
-### 💼 Proyectos Profesionales
-- **[Servicio de Notificaciones](https://github.com/coderoycc/notifications?tab=readme-ov-file#m%C3%B3dulo-de-gesti%C3%B3n-de-notificaciones-)** - Módulo de gestión de notificaciones con Clean/Hexagonal Architecture
-
-### 🎮 Proyectos Personales
-- **[Memory Game](https://coderoycc.github.io/memory-cards/)** - Juego de memoria desarrollado con Vue 3, Tailwind CSS y TypeScript (GH-Pages / GH-Actions)
-- **[TO-DO App](https://coderoycc.github.io/primevue-todo/)** - Organizador de tareas con Vue 3, PrimeVue, TypeScript y Node.js (GH-Pages / GH-Actions)
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=coderoycc&theme=dark&hide_border=false)<br/>
+## 🏆 Proyectos Destacados
+
+### 🔔 [Servicio de Notificaciones](https://github.com/coderoycc/notifications)
+> Sistema de gestión de notificaciones con **Clean/Hexagonal Architecture**  
+> `Laravel` `PostgreSQL` `Clean Code` `Design Patterns`
+
+### 🎮 [Memory Game](https://coderoycc.github.io/memory-cards/)
+> Juego interactivo de memoria con animaciones fluidas  
+> `Vue 3` `TypeScript` `Tailwind CSS` `GitHub Actions`
+
+### ✅ [TO-DO App](https://coderoycc.github.io/primevue-todo/)
+> Organizador de tareas con interfaz moderna y responsiva  
+> `Vue 3` `PrimeVue` `TypeScript` `Node.js`
+
+[**Ver más proyectos →**](https://github.com/coderoycc?tab=repositories)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=coderoycc&icon=0&color=0)](#)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderoycc&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderoycc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderoycc&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Certificaciones Recientes
+
+- 🤖 **No Code AI Agent Builder** - SimpliLearn SkillUp (2025)
+- 📋 **Scrum Foundation Professional Certificate** - Agile Scrum (2024)
+- 🔌 **APIs RESTful con Laravel** - Udemy (2023)
+
+---
+
+<div align="center">
+
+### 💬 ¿Hablamos de tu próximo proyecto?
+
+[![LinkedIn](https://img.shields.io/badge/Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rcchambi4)
+[![Email](https://img.shields.io/badge/Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcchambi4@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=coderoycc&color=blueviolet&style=for-the-badge)
+
+</div>
