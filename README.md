@@ -27,7 +27,7 @@ const roberto = {
 
 💡 **Especializado en:** Desarrollo web full-stack, arquitecturas escalables y optimización de sistemas  
 🎯 **Enfoque:** Código limpio, mejores prácticas, arquitecturas modernas y trabajo en equipo  
-🌱 **Aprendiendo:** AI Agents, Microservicios multitenant avanzados
+🌱 **Aprendiendo:** AI Agents, Microservicios multitenant avanzados y microfrontend multinenat
 
 ---
 
