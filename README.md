@@ -1,8 +1,9 @@
 <div align="center">
 
-# 👋 Hola, soy Roberto Carlos Chambi
+# 👋 Hola, soy Roberto Carlos
+Chambi Calizaya
 
-### Full Stack Developer | Laravel • Vue.js • Node.js
+### Full Stack Developer | Stack Node | Vue.js • Angular • NestJS • express | Laravel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/rcchambi4)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcchambi4@gmail.com)
