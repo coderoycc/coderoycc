@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Roberto Carlos
-Chambi Calizaya
+# 👋 Hola, soy Roberto Carlos Chambi Calizaya
 
 ### Full Stack Developer | Stack Node | Vue.js • Angular • NestJS • express | Laravel
 
