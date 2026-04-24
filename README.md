@@ -21,7 +21,7 @@ const roberto = {
     experience: "+3 años",
     education: "Lic. en Informática - UMSA",
     currentFocus: ["Clean Architecture", "Microservices", "APIs REST", "Docker", "CI/CD", "Multitenant Apps"],
-    lookingFor: "Oportunidades para crear soluciones innovadoras"
+    lookingFor: "opportunities to develop innovative projects"
 };
 ```
 
