@@ -1,113 +1,138 @@
 <div align="center">
 
-# 👋 Hola, soy Roberto Carlos Chambi Calizaya
+# Roberto Carlos Chambi Calizaya
 
-### Full Stack Developer | Stack Node | Vue.js • Angular • NestJS • express | Laravel
+### Full Stack Engineer | Vue.js • Angular • NestJS • Java Spring • TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/rcchambi4)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcchambi4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/coderoycc)
+Full Stack Developer with 3+ years of experience building scalable web applications, enterprise systems and reusable frontend architectures.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_Chambi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rcchambi4)
+[![NPM](https://img.shields.io/badge/NPM-Packages-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@coderoycc/bottom-sheet-wrappers)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rcchambi4@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+# Core Expertise
 
-```javascript
-const roberto = {
-    location: "La Paz, Bolivia 🇧🇴",
-    role: "Full Stack Developer Jr.",
-    experience: "+3 años",
-    education: "Lic. en Informática - UMSA",
-    currentFocus: ["Clean Architecture", "Microservices", "APIs REST", "Docker", "CI/CD", "Multitenant Apps"],
-    lookingFor: "opportunities to develop innovative projects"
-};
-```
-
-💡 **Especializado en:** Desarrollo web full-stack, arquitecturas escalables y optimización de sistemas  
-🎯 **Enfoque:** Código limpio, mejores prácticas, arquitecturas modernas y trabajo en equipo  
-🌱 **Aprendiendo:** AI Agents, Microservicios multitenant avanzados y microfrontend multinenat
+- Frontend development with **Vue 3**, **Angular** and **TypeScript**
+- Backend development and refactoring with **NestJS**, **Java Spring** and **Laravel**
+- REST APIs, multitenant systems and scalable application architecture
+- Event-driven integrations using **RabbitMQ** and **Apache Kafka**
+- CI/CD automation using **GitHub Actions** and **Bitbucket Pipelines**
+- Enterprise application maintenance and distributed systems workflows
 
 ---
 
-## 💻 Tech Stack
+# Professional Projects
 
-**Frontend**  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Bottom Sheet Wrappers
+Reusable Vue bottom sheet library published on npm.
 
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+`Vue 3` `TypeScript` `Reusable Components` `CI/CD` `GitHub Actions`
 
-**Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+- NPM  
+  https://www.npmjs.com/package/@coderoycc/bottom-sheet-wrappers
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+- Demo  
+  https://coderoycc.github.io/bsw-demo/
 
 ---
 
-## 🏆 Proyectos Destacados
+## Notification Service
+Notification management service using clean and scalable backend architecture.
 
-### 🔔 [Servicio de Notificaciones](https://github.com/coderoycc/notifications)
-> Sistema de gestión de notificaciones con **Clean/Hexagonal Architecture**  
-> `Laravel` `PostgreSQL` `Clean Code` `Design Patterns`
+`Laravel` `PostgreSQL` `Clean Architecture` `REST APIs`
 
-### 🎮 [Memory Game](https://coderoycc.github.io/memory-cards/)
-> Juego interactivo de memoria con animaciones fluidas  
-> `Vue 3` `TypeScript` `Tailwind CSS` `GitHub Actions`
-
-### ✅ [TO-DO App](https://coderoycc.github.io/primevue-todo/)
-> Organizador de tareas con interfaz moderna y responsiva  
-> `Vue 3` `PrimeVue` `TypeScript` `Node.js`
-
-[**Ver más proyectos →**](https://github.com/coderoycc?tab=repositories)
+https://github.com/coderoycc/notifications
 
 ---
 
-## 📊 GitHub Analytics
+## PrimeVue TO-DO Application
+Task management application focused on reusable UI and frontend state handling.
+
+`Vue 3` `PrimeVue` `TypeScript` `Frontend Architecture`
+
+https://coderoycc.github.io/primevue-todo/
+
+---
+
+# Tech Stack
+
+## Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-1E1E1E?style=flat-square&logo=vuedotjs&logoColor=42b883)
+![Angular](https://img.shields.io/badge/Angular-1E1E1E?style=flat-square&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+## Backend
+
+![NestJS](https://img.shields.io/badge/NestJS-1E1E1E?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Java](https://img.shields.io/badge/Java_Spring-1E1E1E?style=flat-square&logo=spring&logoColor=6DB33F)
+![Laravel](https://img.shields.io/badge/Laravel-1E1E1E?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![PHP](https://img.shields.io/badge/PHP-1E1E1E?style=flat-square&logo=php&logoColor=777BB4)
+
+## Messaging & DevOps
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1E1E1E?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-1E1E1E?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E1E1E?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-1E1E1E?style=flat-square&logo=bitbucket&logoColor=0052CC)
+
+---
+
+# Engineering Experience
+
+### Frontend
+
+- SPA development
+- Reusable component systems
+- Multitenant frontend applications
+- API integrations
+- Responsive UI development
+
+### Backend
+
+- REST API development
+- Backend maintenance and refactoring
+- Queue/event integrations
+- Authentication and authorization
+- Distributed systems communication
+
+### CI/CD & Automation
+
+- GitHub Actions workflows
+- Bitbucket Pipelines
+- Automated deployments
+- npm publishing automation
+- Docker-based environments
+- Build and release pipelines
+
+---
+
+# Architecture
+
+`Clean Architecture`
+`Hexagonal Architecture`
+`Microfrontends`
+`Multitenancy`
+`Distributed Systems`
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderoycc&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderoycc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderoycc&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Certificaciones Recientes
-
-- 🤖 **No Code AI Agent Builder** - SimpliLearn SkillUp (2025)
-- 📋 **Scrum Foundation Professional Certificate** - Agile Scrum (2024)
-- 🔌 **APIs RESTful con Laravel** - Udemy (2023)
-
----
-
-<div align="center">
-
-### 💬 ¿Hablamos de tu próximo proyecto?
-
-[![LinkedIn](https://img.shields.io/badge/Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rcchambi4)
-[![Email](https://img.shields.io/badge/Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcchambi4@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=coderoycc&color=blueviolet&style=for-the-badge)
 
 </div>
