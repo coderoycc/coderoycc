@@ -45,7 +45,7 @@ Reusable Vue bottom sheet library published on npm.
 ## Notification Service
 Notification management service using clean and scalable backend architecture.
 
-`Laravel` `PostgreSQL` `Clean Architecture` `REST APIs`
+`TypeScript` `NestJS` `PostgreSQL` `Clean Architecture` `REST APIs`
 
 https://github.com/coderoycc/notifications
 
@@ -77,6 +77,7 @@ https://coderoycc.github.io/primevue-todo/
 ![Laravel](https://img.shields.io/badge/Laravel-1E1E1E?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![PHP](https://img.shields.io/badge/PHP-1E1E1E?style=flat-square&logo=php&logoColor=777BB4)
+![Go](https://img.shields.io/badge/Go-1E1E1E?style=flat-square&logo=go&logoColor=00ADD8)
 
 ## Messaging & DevOps
 
