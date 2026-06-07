@@ -23,6 +23,7 @@ Full Stack Developer with 3+ years of experience building scalable web applicati
 - REST APIs, multitenant systems and scalable application architecture
 - Event-driven integrations using **RabbitMQ** and **Apache Kafka**
 - CI/CD automation using **GitHub Actions** and **Bitbucket Pipelines**
+- Cloud infrastructure and deployments on **GCP** and **AWS**
 - Enterprise application maintenance and distributed systems workflows
 
 ---
@@ -87,6 +88,11 @@ https://coderoycc.github.io/primevue-todo/
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E1E1E?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-1E1E1E?style=flat-square&logo=bitbucket&logoColor=0052CC)
 
+## Cloud
+
+![GCP](https://img.shields.io/badge/Google_Cloud-1E1E1E?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/AWS-1E1E1E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+
 ---
 
 # Engineering Experience
@@ -115,6 +121,24 @@ https://coderoycc.github.io/primevue-todo/
 - npm publishing automation
 - Docker-based environments
 - Build and release pipelines
+
+### Cloud — GCP
+
+- Compute Engine and Cloud Run deployments
+- Cloud Storage for static assets and file management
+- Cloud SQL and Firestore database management
+- IAM roles and service account configuration
+- Google Cloud Pub/Sub for event-driven workflows
+- Secret Manager for environment and credentials management
+
+### Cloud — AWS
+
+- EC2 instances and ECS container deployments
+- S3 buckets for storage and static hosting
+- RDS for managed relational databases
+- Lambda functions for serverless workloads
+- IAM policies and role-based access control
+- API Gateway for REST API management
 
 ---
 
